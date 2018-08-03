@@ -8,9 +8,10 @@ import { Component } from '@angular/core';
 export class AppComponent {
   praise = '';
   generatePraise(event: KeyboardEvent) {
-    this.praise = `༼ つ ◕_◕ ༽つ PRAISE ${(<HTMLInputElement>(
-      event.target
-    )).value.toUpperCase()} ༼ つ ◕_◕ ༽つ`;
+    const str = (<HTMLInputElement>event.target).value;
+    this.praise = str
+      ? `༼ つ ◕_◕ ༽つ PRAISE ${str.toUpperCase()} ༼ つ ◕_◕ ༽つ`
+      : '';
   }
   copyPraise() {
     const selBox = document.createElement('textarea');
