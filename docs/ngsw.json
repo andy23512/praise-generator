@@ -1,0 +1,87 @@
+{
+  "configVersion": 1,
+  "index": "praise-generator/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "praise-generator/favicon.ico",
+        "praise-generator/index.html",
+        "praise-generator/main.99dd8311c726d12e1681.js",
+        "praise-generator/polyfills.7a0e6866a34e280f48e7.js",
+        "praise-generator/runtime.a66f828dca56eeb90e02.js",
+        "praise-generator/styles.0010caa123227720053d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "praise-generator/assets/icon-128x128.png",
+        "praise-generator/assets/icon-144x144.png",
+        "praise-generator/assets/icon-152x152.png",
+        "praise-generator/assets/icon-192x192.png",
+        "praise-generator/assets/icon-384x384.png",
+        "praise-generator/assets/icon-512x512.png",
+        "praise-generator/assets/icon-72x72.png",
+        "praise-generator/assets/icon-96x96.png",
+        "praise-generator/assets/icons/icon-128x128.png",
+        "praise-generator/assets/icons/icon-144x144.png",
+        "praise-generator/assets/icons/icon-152x152.png",
+        "praise-generator/assets/icons/icon-192x192.png",
+        "praise-generator/assets/icons/icon-384x384.png",
+        "praise-generator/assets/icons/icon-512x512.png",
+        "praise-generator/assets/icons/icon-72x72.png",
+        "praise-generator/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "praise-generator/assets/icon-128x128.png": "630b034fdc1e6e26d0c09610cfa92158fddf8356",
+    "praise-generator/assets/icon-144x144.png": "290145c6cd33bc3ea41111150845fb2e9d1432cc",
+    "praise-generator/assets/icon-152x152.png": "5862d0e6f67388b3dfdf9341d58a8701807b783d",
+    "praise-generator/assets/icon-192x192.png": "c2dc6e1247262361d296e2f632401d47fd2f2b6f",
+    "praise-generator/assets/icon-384x384.png": "4f124d5a4589a7cfd958e92b8822acfb0155aedb",
+    "praise-generator/assets/icon-512x512.png": "8416f334d3602a925b8055e27bf92519ce0b57f1",
+    "praise-generator/assets/icon-72x72.png": "d20b5364a0b9061e3948069178ea4ee7ee371c04",
+    "praise-generator/assets/icon-96x96.png": "9046441124bdf5684efc7e2a300c94ac3a7d3214",
+    "praise-generator/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "praise-generator/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "praise-generator/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "praise-generator/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "praise-generator/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "praise-generator/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "praise-generator/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "praise-generator/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "praise-generator/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "praise-generator/index.html": "547d3990c027013644f746459964dbd649310c3e",
+    "praise-generator/main.99dd8311c726d12e1681.js": "9c2b52887d47b3dcd61722c64de0bc796b258cb3",
+    "praise-generator/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
+    "praise-generator/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "praise-generator/styles.0010caa123227720053d.css": "358f5f5d82550ad99f8ea27d2696a65d9e60554a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
