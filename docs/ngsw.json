@@ -9,7 +9,7 @@
       "urls": [
         "praise-generator/favicon.ico",
         "praise-generator/index.html",
-        "praise-generator/main.99dd8311c726d12e1681.js",
+        "praise-generator/main.e4bb6b4289982ee0e4d2.js",
         "praise-generator/polyfills.7a0e6866a34e280f48e7.js",
         "praise-generator/runtime.a66f828dca56eeb90e02.js",
         "praise-generator/styles.0010caa123227720053d.css"
@@ -60,8 +60,8 @@
     "praise-generator/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "praise-generator/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "praise-generator/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "praise-generator/index.html": "547d3990c027013644f746459964dbd649310c3e",
-    "praise-generator/main.99dd8311c726d12e1681.js": "9c2b52887d47b3dcd61722c64de0bc796b258cb3",
+    "praise-generator/index.html": "975fc0e611ecf67d3c743e2fb300ec7b57522e25",
+    "praise-generator/main.e4bb6b4289982ee0e4d2.js": "4e26d40960b23b3a1b12b0bee96a0ec1ac514f48",
     "praise-generator/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "praise-generator/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "praise-generator/styles.0010caa123227720053d.css": "358f5f5d82550ad99f8ea27d2696a65d9e60554a"
